@@ -2,4 +2,5 @@ theme: jekyll-theme-minimal
 
 title: FEMuS Team Official web site
 show_downloads: true
+show_plt_downloads: true
 logo: figures/swirl2.png
