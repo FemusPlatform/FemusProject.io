@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 
-title: [FEMuS Team Official web site]
-show_downloads: ["true"]
-logo: [figures/swirl2.png]
+title: FEMuS Team Official web site
+show_downloads: true
+logo: figures/swirl2.png
