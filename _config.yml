@@ -3,3 +3,4 @@ theme: jekyll-theme-minimal
 title: [The title of your site]
 description: [A short description of your sites purpose]
 show_downloads: ["true"]
+logo: [figures/swirl2.png]
