@@ -2,5 +2,4 @@ theme: jekyll-theme-minimal
 
 title: [The title of your site]
 description: [A short description of your sites purpose]
-logo: [figures/swirl2.png]
-show_downloads: ["true"]
+
