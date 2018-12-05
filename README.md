@@ -1,5 +1,11 @@
 ## Welcome to GitHub Pages
 
+FEMuS team is currently working on [NumericPlatform](https://github.com/FemusPlatform/NumericPlatform) project.
+This is a numerical platform that has been develop to couple 
+[FEMuS code](https://github.com/FemusPlatform/femus)
+[OpenFOAM extend](https://github.com/FemusPlatform/foam-extend-foam-extend-4.0)
+
+
 You can use the [editor on GitHub](https://github.com/FemusPlatform/FemusProject.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
