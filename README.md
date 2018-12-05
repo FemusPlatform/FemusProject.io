@@ -10,3 +10,5 @@ Up to now the following codes can be installed
 
 
 <a href="https://github.com/FemusPlatform/FemusTeam/blob/master/docs/about.md">Page2</a>
+
+<a href="docs/about.md">Page 2</a>
