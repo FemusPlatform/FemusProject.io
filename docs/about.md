@@ -1,10 +1,7 @@
-## Welcome to GitHub Pages
+## About FEMuS Team
 
-FEMuS team is currently working on [NumericPlatform](https://github.com/FemusPlatform/NumericPlatform) project.
-This is a numerical platform that has been developed to couple different numerical codes. The aim is to realize
-an environment where complex physical phenomena, occurring on several physical scales, can be modeled using 
-existing codes. 
-Up to now the following codes can be installed 
-[FEMuS code](https://github.com/FemusPlatform/femus)
-[OpenFOAM extend](https://github.com/FemusPlatform/foam-extend-foam-extend-4.0)
- 
+* Prof. [Sandro Manservisi](https://www.unibo.it/sitoweb/sandro.manservisi/en)
+* Post-doc [Roberto Da Vi\`a](https://www.unibo.it/sitoweb/roberto.davia2/en)
+* PhD student [Leonardo Chirco](https://www.unibo.it/sitoweb/leonardo.chirco2/en)
+* PhD student [Andrea Chierici](https://www.unibo.it/sitoweb/andrea.chierici4/cv-en)
+* PhD student [Valentina Giovacchini](https://www.unibo.it/sitoweb/valentin.giovacchin2)
