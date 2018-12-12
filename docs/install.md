@@ -519,33 +519,33 @@ Complete install third-party soft
 </head>
 <body>
 	<h1>Directory Tree</h1><p>
-	<a href="/dsk5/dsk5/platform">/dsk5/dsk5/platform</a><br>
-	├── <a href="/dsk5/dsk5/platform/PLAT_BUILD/">PLAT_BUILD</a><br>
-	│   ├── <a href="/dsk5/dsk5/platform/PLAT_BUILD/install_scripts/">install_scripts</a><br>
-	│   ├── <a href="/dsk5/dsk5/platform/PLAT_BUILD/libmesh-1.3.1/">libmesh-1.3.1</a><br>
-	│   ├── <a href="/dsk5/dsk5/platform/PLAT_BUILD/med-3.3.1/">med-3.3.1</a><br>
-	│   ├── <a href="/dsk5/dsk5/platform/PLAT_BUILD/MedCoupling-8.4.0/">MedCoupling-8.4.0</a><br>
-	│   ├── <a href="/dsk5/dsk5/platform/PLAT_BUILD/openmpi-3.1.3/">openmpi-3.1.3</a><br>
-	│   ├── <a href="/dsk5/dsk5/platform/PLAT_BUILD/package_logs/">package_logs</a><br>
-	│   ├── <a href="/dsk5/dsk5/platform/PLAT_BUILD/packages_targz/">packages_targz</a><br>
-	│   ├── <a href="/dsk5/dsk5/platform/PLAT_BUILD/petsc-3.10.2/">petsc-3.10.2</a><br>
-	│   └── <a href="/dsk5/dsk5/platform/PLAT_BUILD/Salome-V8_4_0-univ/">Salome-V8_4_0-univ</a><br>
-	├── <a href="/dsk5/dsk5/platform/PLAT_CODES/">PLAT_CODES</a><br>
-	├── <a href="/dsk5/dsk5/platform/PLAT_THIRD_PARTY/">PLAT_THIRD_PARTY</a><br>
-	│   ├── <a href="/dsk5/dsk5/platform/PLAT_THIRD_PARTY/hdf5/">hdf5</a><br>
-	│   ├── <a href="/dsk5/dsk5/platform/PLAT_THIRD_PARTY/med/">med</a><br>
-	│   ├── <a href="/dsk5/dsk5/platform/PLAT_THIRD_PARTY/med-3.3.1/">med-3.3.1</a><br>
-	│   ├── <a href="/dsk5/dsk5/platform/PLAT_THIRD_PARTY/MED_coupling/">MED_coupling</a><br>
-	│   ├── <a href="/dsk5/dsk5/platform/PLAT_THIRD_PARTY/MedCoupling-8.4.0/">MedCoupling-8.4.0</a><br>
-	│   ├── <a href="/dsk5/dsk5/platform/PLAT_THIRD_PARTY/MED_mod/">MED_mod</a><br>
-	│   ├── <a href="/dsk5/dsk5/platform/PLAT_THIRD_PARTY/openmpi/">openmpi</a><br>
-	│   ├── <a href="/dsk5/dsk5/platform/PLAT_THIRD_PARTY/openmpi-3.1.3/">openmpi-3.1.3</a><br>
-	│   ├── <a href="/dsk5/dsk5/platform/PLAT_THIRD_PARTY/petsc/">petsc</a><br>
-	│   ├── <a href="/dsk5/dsk5/platform/PLAT_THIRD_PARTY/petsc-3.10.2/">petsc-3.10.2</a><br>
-	│   └── <a href="/dsk5/dsk5/platform/PLAT_THIRD_PARTY/salome/">salome</a><br>
-	├── <a href="/dsk5/dsk5/platform/PLAT_USERS/">PLAT_USERS</a><br>
-	└── <a href="/dsk5/dsk5/platform/PLAT_VISU/">PLAT_VISU</a><br>
-	&nbsp;&nbsp;&nbsp; └── <a href="/dsk5/dsk5/platform/PLAT_VISU/appli_salome/">appli_salome</a><br>
+	<a href="--nolinks">--nolinks</a><br>
+	├── <a href="--nolinks/PLAT_BUILD/">PLAT_BUILD</a><br>
+	│   ├── <a href="--nolinks/PLAT_BUILD/install_scripts/">install_scripts</a><br>
+	│   ├── <a href="--nolinks/PLAT_BUILD/libmesh-1.3.1/">libmesh-1.3.1</a><br>
+	│   ├── <a href="--nolinks/PLAT_BUILD/med-3.3.1/">med-3.3.1</a><br>
+	│   ├── <a href="--nolinks/PLAT_BUILD/MedCoupling-8.4.0/">MedCoupling-8.4.0</a><br>
+	│   ├── <a href="--nolinks/PLAT_BUILD/openmpi-3.1.3/">openmpi-3.1.3</a><br>
+	│   ├── <a href="--nolinks/PLAT_BUILD/package_logs/">package_logs</a><br>
+	│   ├── <a href="--nolinks/PLAT_BUILD/packages_targz/">packages_targz</a><br>
+	│   ├── <a href="--nolinks/PLAT_BUILD/petsc-3.10.2/">petsc-3.10.2</a><br>
+	│   └── <a href="--nolinks/PLAT_BUILD/Salome-V8_4_0-univ/">Salome-V8_4_0-univ</a><br>
+	├── <a href="--nolinks/PLAT_CODES/">PLAT_CODES</a><br>
+	├── <a href="--nolinks/PLAT_THIRD_PARTY/">PLAT_THIRD_PARTY</a><br>
+	│   ├── <a href="--nolinks/PLAT_THIRD_PARTY/hdf5/">hdf5</a><br>
+	│   ├── <a href="--nolinks/PLAT_THIRD_PARTY/med/">med</a><br>
+	│   ├── <a href="--nolinks/PLAT_THIRD_PARTY/med-3.3.1/">med-3.3.1</a><br>
+	│   ├── <a href="--nolinks/PLAT_THIRD_PARTY/MED_coupling/">MED_coupling</a><br>
+	│   ├── <a href="--nolinks/PLAT_THIRD_PARTY/MedCoupling-8.4.0/">MedCoupling-8.4.0</a><br>
+	│   ├── <a href="--nolinks/PLAT_THIRD_PARTY/MED_mod/">MED_mod</a><br>
+	│   ├── <a href="--nolinks/PLAT_THIRD_PARTY/openmpi/">openmpi</a><br>
+	│   ├── <a href="--nolinks/PLAT_THIRD_PARTY/openmpi-3.1.3/">openmpi-3.1.3</a><br>
+	│   ├── <a href="--nolinks/PLAT_THIRD_PARTY/petsc/">petsc</a><br>
+	│   ├── <a href="--nolinks/PLAT_THIRD_PARTY/petsc-3.10.2/">petsc-3.10.2</a><br>
+	│   └── <a href="--nolinks/PLAT_THIRD_PARTY/salome/">salome</a><br>
+	├── <a href="--nolinks/PLAT_USERS/">PLAT_USERS</a><br>
+	└── <a href="--nolinks/PLAT_VISU/">PLAT_VISU</a><br>
+	&nbsp;&nbsp;&nbsp; └── <a href="--nolinks/PLAT_VISU/appli_salome/">appli_salome</a><br>
 	<br><br>
 	</p>
 	<p>
@@ -562,6 +562,7 @@ Complete install third-party soft
 	</p>
 </body>
 </html>
+
 ====================================
 
 
