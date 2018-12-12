@@ -5,16 +5,27 @@ platform  (NumericalPlatform)
 
 /dsk5/dsk5/platform
 ├── init_platform.sh
+
 ├── PLAT_BUILD
+
 │   ├── gui_dowload.sh
+
 │   ├── gui_guide.sh
+
 │   ├── gui_install_package.sh
+
 │   ├── install_scripts
+
 │   │   ├── code_versions.sh
+
 │   │   ├── fblaslapack.sh
+
 │   │   ├── femus.sh
+
 │   │   ├── foam_repo.sh
+
 │   │   ├── libmesh.sh
+
 │   │   ├── medCoupling.sh
 │   │   ├── med.sh
 │   │   ├── openmpi.sh
