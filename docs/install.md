@@ -489,32 +489,79 @@ sed -e "4s|.*|export PLAT_DIR=$PLAT_DIR|" $PLAT_DIR/PLAT_BUILD/install_scripts/p
 ====================================
 Complete install third-party soft
 ====================================
-/dsk5/dsk5/platform
-├── PLAT_BUILD
-│   ├── install_scripts
-│   ├── med-3.3.1
-│   ├── MedCoupling-8.4.0
-│   ├── openmpi-3.1.3
-│   ├── package_logs
-│   ├── packages_targz
-│   ├── petsc-3.10.2
-│   └── Salome-V8_4_0-univ
-├── PLAT_CODES
-├── PLAT_THIRD_PARTY
-│   ├── hdf5 -> /dsk5/dsk5/platform/PLAT_THIRD_PARTY/salome/prerequisites/Hdf5-1814/
-│   ├── med -> /dsk5/dsk5/platform/PLAT_THIRD_PARTY/med-3.3.1
-│   ├── med-3.3.1
-│   ├── MED_coupling -> /dsk5/dsk5/platform/PLAT_THIRD_PARTY/MedCoupling-8.4.0
-│   ├── MedCoupling-8.4.0
-│   ├── MED_mod -> /dsk5/dsk5/platform/PLAT_THIRD_PARTY/salome/modules/MED_V8_4_0/
-│   ├── openmpi -> /dsk5/dsk5/platform/PLAT_THIRD_PARTY/openmpi-3.1.3
-│   ├── openmpi-3.1.3
-│   ├── petsc -> /dsk5/dsk5/platform/PLAT_THIRD_PARTY/petsc-3.10.2/linux-opt
-│   ├── petsc-3.10.2
-│   └── salome -> /dsk5/dsk5/platform/PLAT_BUILD/Salome-V8_4_0-univ
-├── PLAT_USERS
-└── PLAT_VISU
-    └── appli_salome
+<!DOCTYPE html>
+<html>
+<head>
+ <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+ <meta name="Author" content="Made by 'tree'">
+ <meta name="GENERATOR" content="$Version: $ tree v1.7.0 (c) 1996 - 2014 by Steve Baker, Thomas Moore, Francesc Rocher, Florian Sesser, Kyosuke Tokoro $">
+ <title>Directory Tree</title>
+ <style type="text/css">
+  <!-- 
+  BODY { font-family : ariel, monospace, sans-serif; }
+  P { font-weight: normal; font-family : ariel, monospace, sans-serif; color: black; background-color: transparent;}
+  B { font-weight: normal; color: black; background-color: transparent;}
+  A:visited { font-weight : normal; text-decoration : none; background-color : transparent; margin : 0px 0px 0px 0px; padding : 0px 0px 0px 0px; display: inline; }
+  A:link    { font-weight : normal; text-decoration : none; margin : 0px 0px 0px 0px; padding : 0px 0px 0px 0px; display: inline; }
+  A:hover   { color : #000000; font-weight : normal; text-decoration : underline; background-color : yellow; margin : 0px 0px 0px 0px; padding : 0px 0px 0px 0px; display: inline; }
+  A:active  { color : #000000; font-weight: normal; background-color : transparent; margin : 0px 0px 0px 0px; padding : 0px 0px 0px 0px; display: inline; }
+  .VERSION { font-size: small; font-family : arial, sans-serif; }
+  .NORM  { color: black;  background-color: transparent;}
+  .FIFO  { color: purple; background-color: transparent;}
+  .CHAR  { color: yellow; background-color: transparent;}
+  .DIR   { color: blue;   background-color: transparent;}
+  .BLOCK { color: yellow; background-color: transparent;}
+  .LINK  { color: aqua;   background-color: transparent;}
+  .SOCK  { color: fuchsia;background-color: transparent;}
+  .EXEC  { color: green;  background-color: transparent;}
+  -->
+ </style>
+</head>
+<body>
+	<h1>Directory Tree</h1><p>
+	<a href="/dsk5/dsk5/platform">/dsk5/dsk5/platform</a><br>
+	├── <a href="/dsk5/dsk5/platform/PLAT_BUILD/">PLAT_BUILD</a><br>
+	│   ├── <a href="/dsk5/dsk5/platform/PLAT_BUILD/install_scripts/">install_scripts</a><br>
+	│   ├── <a href="/dsk5/dsk5/platform/PLAT_BUILD/libmesh-1.3.1/">libmesh-1.3.1</a><br>
+	│   ├── <a href="/dsk5/dsk5/platform/PLAT_BUILD/med-3.3.1/">med-3.3.1</a><br>
+	│   ├── <a href="/dsk5/dsk5/platform/PLAT_BUILD/MedCoupling-8.4.0/">MedCoupling-8.4.0</a><br>
+	│   ├── <a href="/dsk5/dsk5/platform/PLAT_BUILD/openmpi-3.1.3/">openmpi-3.1.3</a><br>
+	│   ├── <a href="/dsk5/dsk5/platform/PLAT_BUILD/package_logs/">package_logs</a><br>
+	│   ├── <a href="/dsk5/dsk5/platform/PLAT_BUILD/packages_targz/">packages_targz</a><br>
+	│   ├── <a href="/dsk5/dsk5/platform/PLAT_BUILD/petsc-3.10.2/">petsc-3.10.2</a><br>
+	│   └── <a href="/dsk5/dsk5/platform/PLAT_BUILD/Salome-V8_4_0-univ/">Salome-V8_4_0-univ</a><br>
+	├── <a href="/dsk5/dsk5/platform/PLAT_CODES/">PLAT_CODES</a><br>
+	├── <a href="/dsk5/dsk5/platform/PLAT_THIRD_PARTY/">PLAT_THIRD_PARTY</a><br>
+	│   ├── <a href="/dsk5/dsk5/platform/PLAT_THIRD_PARTY/hdf5/">hdf5</a><br>
+	│   ├── <a href="/dsk5/dsk5/platform/PLAT_THIRD_PARTY/med/">med</a><br>
+	│   ├── <a href="/dsk5/dsk5/platform/PLAT_THIRD_PARTY/med-3.3.1/">med-3.3.1</a><br>
+	│   ├── <a href="/dsk5/dsk5/platform/PLAT_THIRD_PARTY/MED_coupling/">MED_coupling</a><br>
+	│   ├── <a href="/dsk5/dsk5/platform/PLAT_THIRD_PARTY/MedCoupling-8.4.0/">MedCoupling-8.4.0</a><br>
+	│   ├── <a href="/dsk5/dsk5/platform/PLAT_THIRD_PARTY/MED_mod/">MED_mod</a><br>
+	│   ├── <a href="/dsk5/dsk5/platform/PLAT_THIRD_PARTY/openmpi/">openmpi</a><br>
+	│   ├── <a href="/dsk5/dsk5/platform/PLAT_THIRD_PARTY/openmpi-3.1.3/">openmpi-3.1.3</a><br>
+	│   ├── <a href="/dsk5/dsk5/platform/PLAT_THIRD_PARTY/petsc/">petsc</a><br>
+	│   ├── <a href="/dsk5/dsk5/platform/PLAT_THIRD_PARTY/petsc-3.10.2/">petsc-3.10.2</a><br>
+	│   └── <a href="/dsk5/dsk5/platform/PLAT_THIRD_PARTY/salome/">salome</a><br>
+	├── <a href="/dsk5/dsk5/platform/PLAT_USERS/">PLAT_USERS</a><br>
+	└── <a href="/dsk5/dsk5/platform/PLAT_VISU/">PLAT_VISU</a><br>
+	&nbsp;&nbsp;&nbsp; └── <a href="/dsk5/dsk5/platform/PLAT_VISU/appli_salome/">appli_salome</a><br>
+	<br><br>
+	</p>
+	<p>
+
+26 directories
+	<br><br>
+	</p>
+	<hr>
+	<p class="VERSION">
+		 tree v1.7.0 © 1996 - 2014 by Steve Baker and Thomas Moore <br>
+		 HTML output hacked and copyleft © 1998 by Francesc Rocher <br>
+		 JSON output hacked and copyleft © 2014 by Florian Sesser <br>
+		 Charsets / OS/2 support © 2001 by Kyosuke Tokoro
+	</p>
+</body>
+</html>
 ====================================
 
 
