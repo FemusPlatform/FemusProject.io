@@ -519,33 +519,33 @@ Complete install third-party soft
 </head>
 <body>
 	<h1>Directory Tree</h1><p>
-	<a href="--nolinks">--nolinks</a><br>
-	├── <a href="--nolinks/PLAT_BUILD/">PLAT_BUILD</a><br>
-	│   ├── <a href="--nolinks/PLAT_BUILD/install_scripts/">install_scripts</a><br>
-	│   ├── <a href="--nolinks/PLAT_BUILD/libmesh-1.3.1/">libmesh-1.3.1</a><br>
-	│   ├── <a href="--nolinks/PLAT_BUILD/med-3.3.1/">med-3.3.1</a><br>
-	│   ├── <a href="--nolinks/PLAT_BUILD/MedCoupling-8.4.0/">MedCoupling-8.4.0</a><br>
-	│   ├── <a href="--nolinks/PLAT_BUILD/openmpi-3.1.3/">openmpi-3.1.3</a><br>
-	│   ├── <a href="--nolinks/PLAT_BUILD/package_logs/">package_logs</a><br>
-	│   ├── <a href="--nolinks/PLAT_BUILD/packages_targz/">packages_targz</a><br>
-	│   ├── <a href="--nolinks/PLAT_BUILD/petsc-3.10.2/">petsc-3.10.2</a><br>
-	│   └── <a href="--nolinks/PLAT_BUILD/Salome-V8_4_0-univ/">Salome-V8_4_0-univ</a><br>
-	├── <a href="--nolinks/PLAT_CODES/">PLAT_CODES</a><br>
-	├── <a href="--nolinks/PLAT_THIRD_PARTY/">PLAT_THIRD_PARTY</a><br>
-	│   ├── <a href="--nolinks/PLAT_THIRD_PARTY/hdf5/">hdf5</a><br>
-	│   ├── <a href="--nolinks/PLAT_THIRD_PARTY/med/">med</a><br>
-	│   ├── <a href="--nolinks/PLAT_THIRD_PARTY/med-3.3.1/">med-3.3.1</a><br>
-	│   ├── <a href="--nolinks/PLAT_THIRD_PARTY/MED_coupling/">MED_coupling</a><br>
-	│   ├── <a href="--nolinks/PLAT_THIRD_PARTY/MedCoupling-8.4.0/">MedCoupling-8.4.0</a><br>
-	│   ├── <a href="--nolinks/PLAT_THIRD_PARTY/MED_mod/">MED_mod</a><br>
-	│   ├── <a href="--nolinks/PLAT_THIRD_PARTY/openmpi/">openmpi</a><br>
-	│   ├── <a href="--nolinks/PLAT_THIRD_PARTY/openmpi-3.1.3/">openmpi-3.1.3</a><br>
-	│   ├── <a href="--nolinks/PLAT_THIRD_PARTY/petsc/">petsc</a><br>
-	│   ├── <a href="--nolinks/PLAT_THIRD_PARTY/petsc-3.10.2/">petsc-3.10.2</a><br>
-	│   └── <a href="--nolinks/PLAT_THIRD_PARTY/salome/">salome</a><br>
-	├── <a href="--nolinks/PLAT_USERS/">PLAT_USERS</a><br>
-	└── <a href="--nolinks/PLAT_VISU/">PLAT_VISU</a><br>
-	&nbsp;&nbsp;&nbsp; └── <a href="--nolinks/PLAT_VISU/appli_salome/">appli_salome</a><br>
+	/dsk5/dsk5/platform<br>
+	├── PLAT_BUILD<br>
+	│   ├── install_scripts<br>
+	│   ├── libmesh-1.3.1<br>
+	│   ├── med-3.3.1<br>
+	│   ├── MedCoupling-8.4.0<br>
+	│   ├── openmpi-3.1.3<br>
+	│   ├── package_logs<br>
+	│   ├── packages_targz<br>
+	│   ├── petsc-3.10.2<br>
+	│   └── Salome-V8_4_0-univ<br>
+	├── PLAT_CODES<br>
+	├── PLAT_THIRD_PARTY<br>
+	│   ├── hdf5<br>
+	│   ├── med<br>
+	│   ├── med-3.3.1<br>
+	│   ├── MED_coupling<br>
+	│   ├── MedCoupling-8.4.0<br>
+	│   ├── MED_mod<br>
+	│   ├── openmpi<br>
+	│   ├── openmpi-3.1.3<br>
+	│   ├── petsc<br>
+	│   ├── petsc-3.10.2<br>
+	│   └── salome<br>
+	├── PLAT_USERS<br>
+	└── PLAT_VISU<br>
+	&nbsp;&nbsp;&nbsp; └── appli_salome<br>
 	<br><br>
 	</p>
 	<p>
