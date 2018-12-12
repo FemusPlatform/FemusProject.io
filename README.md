@@ -9,3 +9,4 @@ Up to now the following codes can be installed
 [OpenFOAM extend](https://github.com/FemusPlatform/foam-extend-foam-extend-4.0)
 
 [About FEMuS Team](docs/about.md)
+[About Platform Installation](docs/install.md)
